@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-25 05:10:07">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 02:41:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8fc2a0a7db31201057ca7a61399619ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Service Task Overvie - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_8fc2a0a7db31201057ca7a61399619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+        <title>PA Service Task Overvie - New Tab</title>
+        <user/>
+        <view>pa_service_task_overvie_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Service Task Overvie - New Tab">8fc2a0a7db31201057ca7a61399619ac</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                <sys_id>5bc2a0a7db31201057ca7a61399619bb</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5bc2a0a7db31201057ca7a61399619bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>17c2a0a7db31201057ca7a61399619bc</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:30</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5bc2a0a7db31201057ca7a61399619bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>1fc2a0a7db31201057ca7a61399619bb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:30</sys_updated_on>
+                        <value>3010cdf35f312100a9ad2572f2b47752</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5bc2a0a7db31201057ca7a61399619bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>53c2a0a7db31201057ca7a61399619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>46a211775f312100a9ad2572f2b47773</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5bc2a0a7db31201057ca7a61399619bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>d7c2a0a7db31201057ca7a61399619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>Requests Closed Trend by Service</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Service Task Overvie - New Tab">8fc2a0a7db31201057ca7a61399619ac</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                <sys_id>5fc2a0a7db31201057ca7a61399619bd</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5fc2a0a7db31201057ca7a61399619bd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>13c2a0a7db31201057ca7a61399619be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>Active Requests by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5fc2a0a7db31201057ca7a61399619bd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>97c2a0a7db31201057ca7a61399619be</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:29</sys_updated_on>
+                        <value>c2008df35f312100a9ad2572f2b477a5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5fc2a0a7db31201057ca7a61399619bd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>d3c2a0a7db31201057ca7a61399619be</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:29</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">5fc2a0a7db31201057ca7a61399619bd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>dbc2a0a7db31201057ca7a61399619be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>46a211775f312100a9ad2572f2b47773</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Service Task Overvie - New Tab">8fc2a0a7db31201057ca7a61399619ac</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                <sys_id>d7c2a0a7db31201057ca7a61399619b8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>5fc2a0a7db31201057ca7a61399619b9</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:34</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>9bc2a0a7db31201057ca7a61399619b8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:34</sys_updated_on>
+                        <value>0f10cdf35f312100a9ad2572f2b47789</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>9bc2a0a7db31201057ca7a61399619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>Unassigned Active Requests</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>d7c2a0a7db31201057ca7a61399619b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>46a211775f312100a9ad2572f2b47773</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Service Task Overvie - New Tab">8fc2a0a7db31201057ca7a61399619ac</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                <sys_id>d7c2a0a7db31201057ca7a61399619ba</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619ba</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>57c2a0a7db31201057ca7a61399619bb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:29</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619ba</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>5fc2a0a7db31201057ca7a61399619ba</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:29</sys_updated_on>
+                        <value>7910cdf35f312100a9ad2572f2b47778</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619ba</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>93c2a0a7db31201057ca7a61399619bb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>Requests Opened Trend by Service</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">d7c2a0a7db31201057ca7a61399619ba</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>9bc2a0a7db31201057ca7a61399619ba</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>46a211775f312100a9ad2572f2b47773</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Service Task Overvie - New Tab">8fc2a0a7db31201057ca7a61399619ac</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                <sys_id>dbc2a0a7db31201057ca7a61399619bc</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dbc2a0a7db31201057ca7a61399619bc</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>53c2a0a7db31201057ca7a61399619bd</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:30</sys_updated_on>
+                        <value>9300cdf35f312100a9ad2572f2b47727</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dbc2a0a7db31201057ca7a61399619bc</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>5bc2a0a7db31201057ca7a61399619bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>Active Requests by Service</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dbc2a0a7db31201057ca7a61399619bc</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>97c2a0a7db31201057ca7a61399619bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>46a211775f312100a9ad2572f2b47773</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dbc2a0a7db31201057ca7a61399619bc</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>9fc2a0a7db31201057ca7a61399619bc</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:30</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Service Task Overvie - New Tab">8fc2a0a7db31201057ca7a61399619ac</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                <sys_id>dfc2a0a7db31201057ca7a61399619be</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dfc2a0a7db31201057ca7a61399619be</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>1bc2a0a7db31201057ca7a61399619bf</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:34</sys_updated_on>
+                        <value>3400cdf35f312100a9ad2572f2b47708</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dfc2a0a7db31201057ca7a61399619be</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>57c2a0a7db31201057ca7a61399619bf</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:34</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dfc2a0a7db31201057ca7a61399619be</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>5fc2a0a7db31201057ca7a61399619bf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>46a211775f312100a9ad2572f2b47773</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-24 18:41:25">dfc2a0a7db31201057ca7a61399619be</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-25 02:41:25</sys_created_on>
+                        <sys_id>93c2a0a7db31201057ca7a61399619bf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-25 02:41:25</sys_updated_on>
+                        <value>Active Requests by Assignee</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
